@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Node
+client/node_modules/
+client/dist/
+
+# Environment & Local Data
+*.env
+*.xlsx
+.DS_Store
